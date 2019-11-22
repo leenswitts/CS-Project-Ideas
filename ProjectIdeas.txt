@@ -1,7 +1,0 @@
-nmap type scanner
-
-invasive security
-differential steganography
-
-this is an extra line of code wohoo
-
