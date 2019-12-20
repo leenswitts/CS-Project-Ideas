@@ -32,10 +32,12 @@
 | Security | Vignere Cracker | Crack Vignere cipher with zero prior knowledge of plaintext or key. Assumption: The ciphertext given is long (>1000 characters) |
 | Security | LSB Image Steganography | Encrypt a textfile into an image by altering least-significant bits of pixels of an image |
 | Security | Differential Setagography
+| Security | Webcam Snapper | When this code is run, a snapshot via webcam should be taken every 2 minutes and sent over the internet to you. You can the images via nc, git clone, anything |
 | Machine Learning | Naive-Bayes | Very basic ML project. Filter a given message as spam or not spam. Implement Naive-Bayes from scratch. |
 | Machine Learning | K-Means |
 | Web Development | Live Gaussian Curve Drawer | Be able to set sigma and mean and obtain the new curve simultaneously |
 | App Development | Pacman game |
+| App Development | Media Player | A simple media player that can play MP3, MP4 formats. Should have basic functionality play, pause, etc. Must have GUI-based  |
 | App Development | Ticket Organizer Restaraunt | Let's the cashier choose order for the customer and saves the output in a text file. Must be implemented using GUI |
 | Design | Soundblocking mask | Blocks sound you speak and transmits it to your phone |
 | IoT, App Development | Pillow Alarm | You can choose a time for alarm via an app. The circuitry in your pillow vibrates when it is time for the alarm to ring |
