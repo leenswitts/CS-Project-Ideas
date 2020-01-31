@@ -16,12 +16,12 @@
 | --- | --- | ---|
 | Databases, IoT, Machine learning, Security, Web | Algorithms, App development, Databases, Web | Algorithms, IoT, Systems |
 
-# Other Tips
+# Few Other Tips
 > Many of these are existing/past projects on [my github](github.com/prabhatsoni99)
 
 These projects are awesome for learning. However, if you are going to do a long project I would suggest you to do either of:
 - Make something new
-- Improve the existing technology (you can browse Github projects [here]([https://github.com/search?](https://github.com/search?)) )
+- Improve the existing technology (you can browse Github projects [here](https://github.com/search?))
 
 
 
@@ -39,7 +39,7 @@ These projects are awesome for learning. However, if you are going to do a long 
 | App development | Snake-Ladder Game  | Simulate a Snake and ladders game  |
 | IoT, App Development | Pillow Alarm | You can choose a time for alarm via an app. The circuitry in your pillow vibrates when it is time for the alarm to ring |
 | Machine Learning | Naive-Bayes | Very basic ML project. Filter a given message as spam or not spam. Implement Naive-Bayes from scratch. |
-| Security | Basic Nmap Scanner | Be able to check for live hosts and open ports. [nmap]([https://en.wikipedia.org/wiki/Nmap](https://en.wikipedia.org/wiki/Nmap)) |
+| Security | Basic Nmap Scanner | Be able to check for live hosts and open ports. [nmap](https://en.wikipedia.org/wiki/Nmap) |
 | Security | Keylogger | Script that records every key that a user presses. This script should execute in background. |
 | Security | Vignere Cracker | Crack Vignere cipher with zero prior knowledge of plaintext or key. Assumption: The ciphertext given is long (>1000 characters). Assume the ciphertext to be all lowercase, words seperated by spaces and no special characters. |
 | Security | LSB Image Steganography | Encrypt a textfile into an image by altering least-significant bits of pixels of an image. |
@@ -54,11 +54,11 @@ These projects are awesome for learning. However, if you are going to do a long 
 | Systems | Multi-User Chat System | Implement a chat system with 1 server and `n` clients. Clients should be able to talk to each other via the server. Donot use internet for the communication. The communication between different entities (users, server) can be via sockets or files. |
 | Web | Gmail API | Use the Gmail API to get your recent mails, send mails, etc |
 | Web | Graph Drawer | Takes equation as an input and outputs a x-y graph |
-| Web | Professor Email ID Scraping - IIIT Delhi | Scrapes email IDs of professors of IIIT Delhi [faculty webpage]([https://www.iiitd.ac.in/people/faculty](https://www.iiitd.ac.in/people/faculty)). You would be required to parse the data in HTML format and search for strings. |
+| Web | Professor Email ID Scraping - IIIT Delhi | Scrapes email IDs of professors of IIIT Delhi [faculty webpage](https://www.iiitd.ac.in/people/faculty). You would be required to parse the data in HTML format and search for strings. |
 | Web | Live Gaussian Curve Drawer | Be able to set sigma and mean in a gaussian curve and obtain the new curve simultaneously. The changes should be reflected immediately. |
 
 
 
 
 New ideas are also welcome.
-<br>Feel free to submit a [pull request]([https://github.com/prabhatsoni99/CS-Project-Ideas/pulls](https://github.com/prabhatsoni99/CS-Project-Ideas/pulls)) !
+<br>Feel free to submit a [pull request]([https://github.com/prabhatsoni99/CS-Project-Ideas/pulls])!
