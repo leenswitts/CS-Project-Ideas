@@ -1,4 +1,3 @@
-
 # CS Project Ideas
 
 # Project Idea Domains
@@ -17,11 +16,11 @@
 | Databases, IoT, Machine learning, Security, Web | Algorithms, App development, Databases, Web | Algorithms, IoT, Systems |
 
 # Few Other Tips
-> Many of these are existing/past projects on [my github](github.com/prabhatsoni99)
+> Some of these are existing/past projects on [my github](github.com/prabhatsoni99)
 
 These projects are awesome for learning. However, if you are going to do a long project I would suggest you to do either of:
 - Make something new
-- Improve the existing technology (you can browse Github projects [here](https://github.com/search?))
+- Improve the existing technology. You can browse Github projects [here](https://github.com/search?).
 
 
 
@@ -34,17 +33,19 @@ These projects are awesome for learning. However, if you are going to do a long 
 | App Development | Plants Vs Zombies game | Implement first level. Would build knowledge of object-oriented programming |
 | App Development | Media Player | A simple media player that can play MP3, MP4 formats. Should have basic functionality play, pause, etc. Must have GUI |
 | App Development | Ticket Organizer Restaraunt | Let's the cashier choose order for the customer and saves the output in a text file. Must be implemented using GUI |
-| Databases, Security | Secure Database | Implement a user login-signup basic database which can withstand SQL injections |
 | App development | Polygon Plotter | The user tells you the shape he/she desires as {rectangle, circle, triangle, eclipse} and the necessary information to construct the shape (coordinates, radius, etc). Plot these shapes on GUI |
 | App development | Snake-Ladder Game  | Simulate a Snake and ladders game  |
+| Databases, Security | Secure Database | Implement a user login-signup basic database which can withstand SQL injections |
+| Databases | DWRS (Delhi Waste Recycling System) | There are 20 collection points in Delhi and only 1 recycler. The recycler only collects from a collection point if it has atleast 100kg of waste. Each collection point must update it's local database to the recycler's local database about each collection point. This is to be done automatically every 3 hours. |
 | IoT, App Development | Pillow Alarm | You can choose a time for alarm via an app. The circuitry in your pillow vibrates when it is time for the alarm to ring |
+| IoT, App Development, Web Devolopment | Smart Dustbin | Fit an ultrasonic sensor on the top/lid of the dustbin to monitor how full a dustbin is every 10 minutes. Transmit this information to the web using Firebase API. Make a simple mobile app that sends out a notification when it senses a dustbin is more than 80% full. |
 | Machine Learning | Naive-Bayes | Very basic ML project. Filter a given message as spam or not spam. Implement Naive-Bayes from scratch. |
 | Security | Basic Nmap Scanner | Be able to check for live hosts and open ports. [nmap](https://en.wikipedia.org/wiki/Nmap) |
 | Security | Keylogger | Script that records every key that a user presses. This script should execute in background. |
 | Security | Vignere Cracker | Crack Vignere cipher with zero prior knowledge of plaintext or key. Assumption: The ciphertext given is long (>1000 characters). Assume the ciphertext to be all lowercase, words seperated by spaces and no special characters. |
 | Security | LSB Image Steganography | Encrypt a textfile into an image by altering least-significant bits of pixels of an image. |
 | Security | Webcam Snapper | When this code is run, a snapshot via webcam should be taken every 2 minutes and sent over the internet to you. The images should be acceptable to you using any tool - nc, git clone, etc |
-| Security, General | Sieve of Eratosthenes | Generate all prime numbers till 10,000 using [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) |
+| Security | Sieve of Eratosthenes | Generate all prime numbers till 10,000 using [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) |
 | Security | Substitution Cipher Solver | Solve substitution cipher using frequency of characters (frequency analysis). Your solution does not need to give the exact plaintext. |
 | Security | Block Cipher | Implement a very simple XOR block cipher using C. The encryption method should generate a random 16-bit key. You should be able to encrypt/decrypt binary data, and not just text files. |
 | Systems | Reader-Writer problem | Implement a solution to the reader-writer problem with `k` reader theads and `k` writer threads. |
@@ -60,5 +61,5 @@ These projects are awesome for learning. However, if you are going to do a long 
 
 
 
-New ideas are also welcome.
-<br>Feel free to submit a [pull request]([https://github.com/prabhatsoni99/CS-Project-Ideas/pulls])!
+New ideas are also welcome.\
+Feel free to submit a [pull request](https://github.com/prabhatsoni99/CS-Project-Ideas/pulls)!
